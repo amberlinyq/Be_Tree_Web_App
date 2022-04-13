@@ -4,6 +4,7 @@ import * as FcIcons from 'react-icons/fc';
 import * as AiIcons from 'react-icons/Ai';
 import * as BsIcons from 'react-icons/Bs';
 
+
 const Login = () => {
 	const google = () => {
 		window.open('http://localhost:8080/auth/google', '_self');
